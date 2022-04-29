@@ -1,0 +1,16 @@
+{
+  "name": "01-prvni-web",
+  "version": "1.0.0",
+  "description": "My first eleventy web",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "keywords": [],
+  "author": "Sarka Bohacova",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
